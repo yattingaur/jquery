@@ -1,0 +1,38 @@
+.jumbotron{
+  height: 80px;
+  padding-top: 20px;
+  border-radius: 0px;
+  
+}
+
+.container{
+    align-items: center;
+    justify-content: center; 
+    padding: 20px 20px;
+  }
+  
+#tabl{
+    display:none;
+  }
+
+.tab{
+    margin-top: 30px;
+    padding-left: 20px;
+  }
+
+.cont{
+    padding-top: 30px;
+    text-align: center;
+  }
+
+  footer{
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(39, 42, 44);
+    color: black;
+    text-align: center;
+    }
+    
+    
